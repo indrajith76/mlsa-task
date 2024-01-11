@@ -18,25 +18,25 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "interactive background of about section";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Undergraduate student studying at Port City International University. I completed my Diploma Engineering in Computer Technology in 2022 and passionate about the MERN stack with hungriness for learning and explore new upcoming technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front End Development",
+  "ReactJS",
+  "MERN Stack development",
+  "Problem solving",
+  "Mobile app development",
+  "User Experience",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving front end and mern stack related problems of web development. I also have some interpersonal skills like Communication skills, Team Player, Time management, and Leadership.My favorite in this programming sector is to fix ‍any Errors. Because in every error there is hope to learn something new. I won't quit until I can fix the error. In this programming life, I have tried to solve all kinds of problems and have succeeded. My policy is to stick with it until the problem is solved.";
 
 const About = () => {
   return (
